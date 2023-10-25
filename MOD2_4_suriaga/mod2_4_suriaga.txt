@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title> HTML Table </title>
+	</head>
+	<body>
+		<table style="border: 1px solid black">
+			<caption> Novels i've read and my ratings </caption>
+		<tr>
+			<th style="border: 1px solid red"> Novel </th>
+			<th style="border: 1px solid red"> Ratings </th>
+		</tr>
+		<tr>
+			<th style="border:1px solid red"> Omniscient Reader's Viewpoint </th>
+			<th style="border: 1px solid red"> 10/10 </th>
+		</tr>
+		<tr>
+			<th style="border: 1px solid red"> Solo Leveling </th>
+			<th style="border: 1px solid red"> 10/10 </th>
+		</tr>
+</html>
